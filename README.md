@@ -16,7 +16,7 @@ Sistema de mini e-commerce mobile desenvolvido em **React Native com Expo (SDK 5
 
 ## 🎥 Link do Vídeo Demonstrativo & Repositório
 
-* **Repositório GitHub:** `[Insira aqui o link do repositório público do GitHub]`
+* **Repositório GitHub:** [https://github.com/Jake-afk47/Easyshop](https://github.com/Jake-afk47/Easyshop)
 * **Vídeo Demonstrativo (YouTube / Google Drive):** `[Insira aqui o link do vídeo gravado no Emulador Android]`
 
 ---
@@ -182,7 +182,7 @@ Easyshop/
 ### Passo 1: Clonar e instalar dependências
 ```bash
 # Clone o repositório
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/Jake-afk47/Easyshop.git
 cd Easyshop
 
 # Instale as dependências

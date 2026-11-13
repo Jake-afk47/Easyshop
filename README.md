@@ -17,9 +17,9 @@ Sistema de mini e-commerce mobile desenvolvido em **React Native com Expo (SDK 5
 ## 🎥 Link do Vídeo Demonstrativo & Repositório
 
 * **Repositório GitHub:** [https://github.com/Jake-afk47/Easyshop](https://github.com/Jake-afk47/Easyshop)
-* **Vídeo Demonstrativo (YouTube / Google Drive):** `[Insira aqui o link do vídeo gravado no Emulador Android]`
+* **Vídeo Demonstrativo (YouTube / Google Drive):** https://drive.google.com/drive/u/1/folders/1DU134hMhSirz4ahnKqqq2vclaWbMYJwq
 
----
+---   
 
 ## 1. 📌 Entendimento do Desafio (Cenário EasyShop)
 

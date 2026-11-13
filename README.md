@@ -10,7 +10,7 @@ Sistema de mini e-commerce mobile desenvolvido em **React Native com Expo (SDK 5
 | :--- | :--- | :--- |
 | **Erick Vinicius Camilo** | `[RA 1]` | Camada de Negócio e Repositório SQL |
 | **Paulo Vinicius Rodrigues Gervazio** | `[RA 2]` | Camada de Dados NoSQL e Interface UI |
-| **[Nome do Aluno 3 (Opcional)]** | `[RA 3]` | Validações, Modelos e Documentação |
+| **Thaigo Henrique Marcelino** | `[RA 3]` | Validações, Modelos e Documentação |
 
 ---
 
